@@ -1,7 +1,7 @@
 //Identifica los numeros capicuas dando 2 parámetros como rango.
+
 public class NumerosCapicuas
 {
-    static NumerosCapicuas numero = new NumerosCapicuas();
      
     void defineCapicuas(int limiteMin,int limiteMax)
     {
